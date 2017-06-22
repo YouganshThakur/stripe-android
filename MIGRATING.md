@@ -20,4 +20,4 @@
 - Both methods can still throw an `IllegalArgumentException` if an invalid key is used, but as a
 runtime exception, that does not need to be wrapped.
 - `AuthenticationException` will now only be thrown if you attempt to create a `Token` or `Source`
-with an invalid key.
+with an invalid key. This is a test, so don't check this in
